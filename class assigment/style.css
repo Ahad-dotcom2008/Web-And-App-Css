@@ -1,0 +1,60 @@
+                      h1{
+    font-size: larger;
+    text-align: center;
+}
+.main{
+    display: flex;
+}
+.pink{
+    border: 3px solid white;
+    width: 50%;
+    border-radius: 00 12px 12px;
+    border-top: 3px;
+    margin: 50px;
+    padding: 50px;
+    border-top: 20px solid pink;
+    box-shadow: 5px 10px 10px black;
+}
+#blue{
+    border: 3px solid white;
+    width: 50%;
+    border-radius: 00 12px 12px;
+    border-top: 3px;
+    margin: 50px;
+    padding: 50px;
+    border-top: 20px solid skyblue;
+    box-shadow: 5px 10px 10px black;
+}
+#green{
+    border: 3px solid white;
+    width: 50%;
+    border-radius: 00 12px 12px;
+    border-top: 3px;
+    margin: 50px;
+    padding: 50px;
+    border-top: 20px solid greenyellow;
+    box-shadow: 5px 10px 10px black;
+}
+#yellow{
+    border: 3px solid white;
+    width: 50%;
+    border-radius: 00 12px 12px;
+    border-top: 3px;
+    margin: 50px;
+    padding: 50px;
+    border-top: 20px solid yellow ;
+    box-shadow: 5px 10px 10px black;
+}
+#purple{
+    border: 3px solid white;
+    width: 50%;
+    border-radius: 00 12px 12px;
+    border-top: 3px;
+    margin: 50px;
+    padding: 50px;
+    border-top: 20px solid purple;
+    box-shadow: 5px 10px 10px black;
+}
+button{
+color: pink;
+}

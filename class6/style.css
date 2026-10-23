@@ -1,0 +1,26 @@
+body{
+    background-color: lightyellow;
+}
+table{
+    padding: 0px; 
+    background-color:rgb(181, 211, 221);
+ color:black; 
+ opacity: 0.8;
+}
+th{
+    background-color: darkblue;
+    color: white;
+}
+fieldset{
+    background-color: white;
+    border: 1px solid black;
+    width: 350px;
+    padding: 20px;
+}
+legend{
+    font-weight: bolder;
+}
+li::marker{
+    color: rgb(20, 246, 20);
+
+}

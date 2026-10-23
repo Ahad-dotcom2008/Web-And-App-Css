@@ -1,0 +1,32 @@
+#para{
+    border: 3px solid;
+    text-transform: uppercase;
+    text-align: center;
+width: 60%;
+margin: auto;
+margin-top: 100px;
+
+}
+#p2{
+    font-weight: bolder;
+
+}
+p{
+    margin: 0;
+}
+li{
+    display: inline-block;
+    width: 16%;
+    color: rgb(172, 51, 51);
+    list-style: none;
+}
+li:hover{
+    color: orange;
+}
+ul{
+   border-style: groove;
+     border-bottom: 10px solid black;
+     border-top: 10px solid black;
+     padding: 10px;
+
+}

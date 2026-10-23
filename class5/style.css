@@ -1,0 +1,35 @@
+table{
+    font-size: x-large;
+    font-family: Verdana, Geneva, Tahoma, sans-serif;
+    text-transform:uppercase ;
+    margin: auto;
+    text-align: center;
+    width: 100%;
+    border-collapse: collapse;
+    margin-top: 10px;
+}
+h1{
+    text-align: center;
+}
+td{
+    padding: 15px;
+}
+.trcolor{
+    background: rgba(155, 145, 145, 0.3);
+}
+.progress{
+   background-color: lightgreen; 
+   border: none;
+}
+.OnHold{
+    background-color: lightcoral;
+    border: none;
+}
+.Open{
+    background-color: yellow;
+    border: none;
+}
+.open{
+    background-color: yellow;
+    border: none;
+}
